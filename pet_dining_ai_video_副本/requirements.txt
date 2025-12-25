@@ -1,0 +1,10 @@
+
+torch==2.1.2
+torchvision==0.16.2
+opencv-python-headless==4.8.0
+Pillow==10.0.0
+diffusers==0.29.0
+transformers==4.44.0
+accelerate==0.28.0
+xformers==0.0.23.post1
+imageio==2.31.5
